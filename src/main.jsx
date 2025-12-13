@@ -1,6 +1,7 @@
 
 import React from "react";
 import ReactDOM from "react-dom/client";
+import "./index.css";
 import MakupsonFarmWebsite from "./MakupsonFarmWebsite";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -8,3 +9,4 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <MakupsonFarmWebsite />
   </React.StrictMode>
 );
+
