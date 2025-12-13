@@ -1,0 +1,2 @@
+import React from 'react';
+export default function MakupsonFarmWebsite(){return(<div className='min-h-screen flex items-center justify-center'><h1 className='text-4xl font-bold'>Makupson Farming LLC – Build Verified</h1></div>);}
